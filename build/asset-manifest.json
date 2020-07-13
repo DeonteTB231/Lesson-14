@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dburnett/WEB215/Lesson14/static/css/main.97593b69.chunk.css",
+    "main.js": "/dburnett/WEB215/Lesson14/static/js/main.335ccf5a.chunk.js",
+    "main.js.map": "/dburnett/WEB215/Lesson14/static/js/main.335ccf5a.chunk.js.map",
+    "runtime-main.js": "/dburnett/WEB215/Lesson14/static/js/runtime-main.e7e47adc.js",
+    "runtime-main.js.map": "/dburnett/WEB215/Lesson14/static/js/runtime-main.e7e47adc.js.map",
+    "static/js/2.5c20e2d1.chunk.js": "/dburnett/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js",
+    "static/js/2.5c20e2d1.chunk.js.map": "/dburnett/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js.map",
+    "index.html": "/dburnett/WEB215/Lesson14/index.html",
+    "precache-manifest.58041eefc4257fdbb2cf9e77b0d171da.js": "/dburnett/WEB215/Lesson14/precache-manifest.58041eefc4257fdbb2cf9e77b0d171da.js",
+    "service-worker.js": "/dburnett/WEB215/Lesson14/service-worker.js",
+    "static/css/main.97593b69.chunk.css.map": "/dburnett/WEB215/Lesson14/static/css/main.97593b69.chunk.css.map",
+    "static/js/2.5c20e2d1.chunk.js.LICENSE": "/dburnett/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js.LICENSE",
+    "static/media/App.css": "/dburnett/WEB215/Lesson14/static/media/back.9cbde9ee.jpg",
+    "static/media/me.jpg": "/dburnett/WEB215/Lesson14/static/media/me.1fea9439.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7e47adc.js",
+    "static/js/2.5c20e2d1.chunk.js",
+    "static/css/main.97593b69.chunk.css",
+    "static/js/main.335ccf5a.chunk.js"
+  ]
+}
